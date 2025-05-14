@@ -100,7 +100,7 @@ int checkForWin()
   else if(arr[7]==arr[8] && arr[8]==arr[9])
  return 1;
 
-  else if(arr[1]==arr[3] && arr[3]==arr[7])
+  else if(arr[1]==arr[4] && arr[4]==arr[7])
  return 1;
   else if(arr[2]==arr[5] && arr[5]==arr[8])
  return 1;
